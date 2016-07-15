@@ -1,0 +1,36 @@
+# FelinæPurr Rev-1.0
+
+![FelinæPurr rev 1.0](doc/FelinaePurr_1.0.png)
+
+### What is FelinæPurr?
+FelinæPurr (you can also write it FelinaePurr if your keyboard does not allow you to make that nice character) is a COMLynx compatible device. The COMLynx is the name of the Atari Lynx cable to connect two Lynx together. As the Lynx use RS232 protocol for that connector, it's also the name of devices that allow to connect your Lynx with your computer.
+
+The particularity of the COMLynx is that it's completely half-duplex as the 2.5 jack used mix with RxD and TxD signal on the same ring:  
+![Jack connector](doc/Jack_123.ong)
+1. +5V
+2. RX/TX
+3. Ground
+
+This device can also be used for devices using the same approach for transmiting RS232 signal (yes there are many of them)
+
+
+### Technical details
+FelinæPurr is made around a FTDI FT232RL chip which is basically a USB to Serial adapter. It have some nice feature like the ability to blink LEDs when there are some Tx/Rx activity, which FelinæPurr use!
+
+You can find ready to order PCB from OSHPark (but you can't buy less than 3) [here](https://oshpark.com/shared_projects/mXTW4gBi)
+
+I will probably sell some of them on [my Tindie store](https://www.tindie.com/stores/Godzil/), I may also make a nice lasercut box for it. Once made the DXF file will be available in the project files!
+
+
+### What does FelinæPurr mean?
+[Felinae](https://en.wikipedia.org/wiki/Felinae) is the Subfamily of the [Lynx](http://en.wikipedia.org/wiki/Lynx), and Purr I think it's obvious what it mean.
+
+As this device is mainly intended for Atari Lynx and to make it chat with your computer, I found that name perfectly fitting it's role!
+
+And why the æ instead of ae? Because æ or Æ it's way cooler than plain ae / AE isn't it?
+
+Also it slightly change the pronunciation. The correct one is roughly: fɛliːnɑːɛ pɜː using [IPA for English](https://en.wikipedia.org/wiki/Help:IPA_for_English)
+
+
+### License
+FelinæPurr is an OpenSource Hardware (OSHW) project and licensed under the MIT License. See the [license](LICENSE) file for more information.

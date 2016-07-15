@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT232RL
+D FT232RL
+$ENDCMP
+#
+$CMP FT232RQ
+D FT232RL
+$ENDCMP
+#
+#End Doc Library
