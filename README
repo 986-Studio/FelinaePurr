@@ -18,7 +18,7 @@ This device can also be used for devices using the same approach for transmiting
 ### Technical details
 FelinæPurr is made around a FTDI FT232RL chip which is basically a USB to Serial adapter. It have some nice feature like the ability to blink LEDs when there are some Tx/Rx activity, which FelinæPurr use!
 
-You can find ready to order PCB from OSHPark (but you can't buy less than 3) [here](https://oshpark.com/shared_projects/mXTW4gBi)
+You can find ready to order PCB from OSHPark (but you can't buy less than 3) [here](https://oshpark.com/shared_projects/I8MZfXOs)
 
 I will probably sell some of them on [my Tindie store](https://www.tindie.com/stores/Godzil/), I may also make a nice lasercut box for it. Once made the DXF file will be available in the project files!
 
