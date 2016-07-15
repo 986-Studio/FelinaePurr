@@ -1,14 +1,14 @@
 (kicad_pcb (version 4) (host pcbnew "(2016-07-14 BZR 6980)-product")
 
   (general
-    (links 51)
+    (links 0)
     (no_connects 0)
     (area 147.924999 79.924999 186.075001 98.075001)
     (thickness 1.6)
     (drawings 17)
     (tracks 170)
     (zones 0)
-    (modules 23)
+    (modules 27)
     (nets 34)
   )
 
@@ -188,6 +188,39 @@
     (add_net +5VD)
     (add_net +5VL)
     (add_net GND)
+  )
+
+  (module PadsLib:2mmHole (layer F.Cu) (tedit 57891662) (tstamp 57895E53)
+    (at 184 96)
+    (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value 2mmHole (at 0 -2) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0 0) (size 2 2) (drill 2) (layers *.Cu))
+  )
+
+  (module PadsLib:2mmHole (layer F.Cu) (tedit 57891662) (tstamp 57895E4F)
+    (at 184 82)
+    (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value 2mmHole (at 0 -2) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0 0) (size 2 2) (drill 2) (layers *.Cu))
+  )
+
+  (module PadsLib:2mmHole (layer F.Cu) (tedit 57891662) (tstamp 57895E4B)
+    (at 150 96)
+    (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value 2mmHole (at 0 -2) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0 0) (size 2 2) (drill 2) (layers *.Cu))
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 5415D631) (tstamp 57892645)
@@ -973,6 +1006,17 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+  )
+
+  (module PadsLib:2mmHole (layer F.Cu) (tedit 57891662) (tstamp 57895E43)
+    (at 150 82)
+    (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value 2mmHole (at 0 -2) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0 0) (size 2 2) (drill 2) (layers *.Cu))
   )
 
   (gr_text DEV (at 175.6 83.8) (layer F.SilkS)
