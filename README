@@ -6,7 +6,8 @@
 FelinæPurr (you can also write it FelinaePurr if your keyboard does not allow you to make that nice character) is a COMLynx compatible device. The COMLynx is the name of the Atari Lynx cable to connect two Lynx together. As the Lynx use RS232 protocol for that connector, it's also the name of devices that allow to connect your Lynx with your computer.
 
 The particularity of the COMLynx is that it's completely half-duplex as the 2.5 jack used mix with RxD and TxD signal on the same ring:  
-![Jack connector](doc/Jack_123.ong)
+![Jack connector](doc/Jack_123.png)
+  
 1. +5V
 2. RX/TX
 3. Ground
