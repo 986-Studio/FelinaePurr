@@ -20,6 +20,8 @@ FelinæPurr is made around a FTDI FT232RL chip which is basically a USB to Seria
 
 You can find ready to order PCB from OSHPark (but you can't buy less than 3) [here](https://oshpark.com/shared_projects/I8MZfXOs)
 
+You can also find this project on SeeedStudio [here](http://www.seeed.cc/project_detail.html?id=1843)
+
 I will probably sell some of them on [my Tindie store](https://www.tindie.com/stores/Godzil/), I may also make a nice lasercut box for it. Once made the DXF file will be available in the project files!
 
 Part of the schematics was inspired by [Zerosquare's Work](http://www.yaronet.com/topics/153397-adaptateur-comlynx-rs232) for the original RS232/Lynx ComLynx
