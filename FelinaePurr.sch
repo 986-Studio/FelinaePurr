@@ -39,7 +39,7 @@ encoding utf-8
 Sheet 1 1
 Title "FelinæPurr"
 Date "2016-07-15"
-Rev "1.1"
+Rev "1.1A"
 Comp "986-Studio"
 Comment1 ""
 Comment2 ""
@@ -543,9 +543,6 @@ Wire Wire Line
 	8950 1800 8950 2100
 Wire Wire Line
 	8750 2000 9550 2000
-Connection ~ 6150 1750
-Wire Wire Line
-	6150 1750 6150 2000
 Wire Wire Line
 	5550 2100 5550 2150
 Connection ~ 6050 1750
@@ -803,4 +800,17 @@ $EndComp
 Wire Wire Line
 	3050 4350 3050 4400
 Connection ~ 3050 4400
+$Comp
+L GND #PWR?
+U 1 1 58FD2B50
+P 6150 2150
+F 0 "#PWR?" H 6150 1900 50  0001 C CNN
+F 1 "GND" H 6155 1977 50  0000 C CNN
+F 2 "" H 6150 2150 50  0000 C CNN
+F 3 "" H 6150 2150 50  0000 C CNN
+	1    6150 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6150 2150 6150 2000
 $EndSCHEMATC
