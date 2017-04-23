@@ -1,5 +1,5 @@
 M48
-;DRILL file {KiCad (2016-07-14 BZR 6980)-product} date Sunday, 23 April 2017 'PMt' 23:35:13
+;DRILL file {KiCad (2016-07-14 BZR 6980)-product} date Sunday, 23 April 2017 'PMt' 23:43:08
 ;FORMAT={-:-/ absolute / metric / decimal}
 FMAT,2
 METRIC,TZ
@@ -9,6 +9,7 @@ T3C0.950
 T4C1.016
 T5C2.500
 T6C1.200
+T7C2.000
 %
 G90
 G05
@@ -56,5 +57,8 @@ X150.8Y-95.2
 T6
 X150.8Y-87.1
 X150.8Y-91.6
+T7
+X184.Y-82.
+X184.Y-96.
 T0
 M30
