@@ -39,7 +39,7 @@ encoding utf-8
 Sheet 1 1
 Title "FelinæPurr"
 Date "2016-07-15"
-Rev "1.0"
+Rev "1.1"
 Comp "986-Studio"
 Comment1 ""
 Comment2 ""
