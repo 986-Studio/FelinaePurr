@@ -1,4 +1,4 @@
-update=Vendredi 15 juillet 2016 'à' 16:08:33
+update=Sunday, 23 April 2017 'pmt' 16:13:05
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,17 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
+ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=
@@ -60,14 +71,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=sn74lvc1g126-q1
 LibName31=ft232rl
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
-ERC_TestSimilarLabels=1
+LibName32=sn74lvc1g125-q1
