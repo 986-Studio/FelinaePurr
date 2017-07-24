@@ -1,6 +1,6 @@
 # FelinæPurr Rev-1.0
 
-![FelinæPurr rev 1.0](doc/FelinaePurr_1.0.png)
+![FelinæPurr rev 1.0](doc/FelinaePurr_1.1A.png)
 
 ### What is FelinæPurr?
 FelinæPurr (you can also write it FelinaePurr if your keyboard does not allow you to make that nice character) is a COMLynx compatible device. The COMLynx is the name of the Atari Lynx cable to connect two Lynx together. As the Lynx use RS232 protocol for that connector, it's also the name of devices that allow to connect your Lynx with your computer.
@@ -14,6 +14,7 @@ The particularity of the COMLynx is that it's completely half-duplex as the 2.5 
 
 This device can also be used for devices using the same approach for transmiting RS232 signal (yes there are many of them)
 
+This branch ``usb-a`` is a version using a USB-A plug directly instead of a microUSB B connector.
 
 ### Technical details
 FelinæPurr is made around a FTDI FT232RL chip which is basically a USB to Serial adapter. It have some nice feature like the ability to blink LEDs when there are some Tx/Rx activity, which FelinæPurr use!
