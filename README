@@ -19,11 +19,9 @@ This branch ``usb-a`` is a version using a USB-A plug directly instead of a micr
 ### Technical details
 FelinæPurr is made around a FTDI FT232RL chip which is basically a USB to Serial adapter. It have some nice feature like the ability to blink LEDs when there are some Tx/Rx activity, which FelinæPurr use!
 
-You can find ready to order PCB from OSHPark (but you can't buy less than 3) [here](https://oshpark.com/shared_projects/I8MZfXOs)
+You can find ready to order PCB from OSHPark (but you can't buy less than 3) [here](https://oshpark.com/shared_projects/EquG5kJ9)
 
-You can also find this project on SeeedStudio [here](http://www.seeed.cc/project_detail.html?id=1843)
-
-I will probably sell some of them on [my Tindie store](https://www.tindie.com/stores/Godzil/), I may also make a nice lasercut box for it. Once made the DXF file will be available in the project files!
+It is visible on my Tindie store [here](https://www.tindie.com/products/7710/) if it is out of stock, please put yourself in the waitlist so I can have an idea of the number of board to make for the next batch.
 
 Part of the schematics was inspired by [Zerosquare's Work](http://www.yaronet.com/topics/153397-adaptateur-comlynx-rs232) for the original RS232/Lynx ComLynx
 
