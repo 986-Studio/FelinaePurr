@@ -1141,7 +1141,7 @@
   (gr_text "© 2017 986-Studio\nManoël <Godzil> Trapier" (at 158.4 96.5) (layer B.Cu)
     (effects (font (size 0.7 0.7) (thickness 0.175)) (justify mirror))
   )
-  (gr_text "FelinæPurr Rev 1.1A" (at 157.5 97) (layer F.SilkS)
+  (gr_text "FelinæPurr Rev 1.2A" (at 157.5 97) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.175)))
   )
   (dimension 18 (width 0.3) (layer Dwgs.User)
