@@ -1,13 +1,13 @@
 # FelinæPurr Rev-1.0
 
-![FelinæPurr rev 1.0](doc/FelinaePurr_1.1A.png)
+![FelinæPurr rev 1.0](doc/FelinaePurr_1.2A.png)
 
 ### What is FelinæPurr?
 FelinæPurr (you can also write it FelinaePurr if your keyboard does not allow you to make that nice character) is a COMLynx compatible device. The COMLynx is the name of the Atari Lynx cable to connect two Lynx together. As the Lynx use RS232 protocol for that connector, it's also the name of devices that allow to connect your Lynx with your computer.
 
-The particularity of the COMLynx is that it's completely half-duplex as the 2.5 jack used mix with RxD and TxD signal on the same ring:  
+The particularity of the COMLynx is that it's completely half-duplex as the 2.5 jack used mix with RxD and TxD signal on the same ring:
 ![Jack connector](doc/Jack_123.png)
-  
+
 1. +5V
 2. RX/TX
 3. Ground
@@ -19,7 +19,7 @@ This branch ``usb-a`` is a version using a USB-A plug directly instead of a micr
 ### Technical details
 FelinæPurr is made around a FTDI FT232RL chip which is basically a USB to Serial adapter. It have some nice feature like the ability to blink LEDs when there are some Tx/Rx activity, which FelinæPurr use!
 
-You can find ready to order PCB from OSHPark (but you can't buy less than 3) [here](https://oshpark.com/shared_projects/EquG5kJ9)
+You can find ready to order PCB from OSHPark (but you can't buy less than 3) [here](https://oshpark.com/shared_projects/PqfJT1Yv)
 
 It is visible on my Tindie store [here](https://www.tindie.com/products/7710/) if it is out of stock, please put yourself in the waitlist so I can have an idea of the number of board to make for the next batch.
 
